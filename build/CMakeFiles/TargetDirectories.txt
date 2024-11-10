@@ -1,0 +1,3 @@
+C:/dev/cam_bot/build/CMakeFiles/SecurityCameraApp.dir
+C:/dev/cam_bot/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/cam_bot/build/CMakeFiles/ZERO_CHECK.dir

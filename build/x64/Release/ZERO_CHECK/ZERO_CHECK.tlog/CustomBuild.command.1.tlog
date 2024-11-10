@@ -1,0 +1,10 @@
+^C:\DEV\CAM_BOT\BUILD\CMAKEFILES\15417CF7A0F4B0EC50799F036374464D\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/cam_bot -BC:/dev/cam_bot/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/cam_bot/build/SecurityCameraApp.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

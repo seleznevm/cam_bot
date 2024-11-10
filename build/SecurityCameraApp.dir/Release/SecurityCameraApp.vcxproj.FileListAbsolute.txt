@@ -1,0 +1,3 @@
+C:\dev\cam_bot\build\Release\libcurl.dll
+C:\dev\cam_bot\build\Release\zlib1.dll
+C:\dev\cam_bot\build\SecurityCameraApp.dir\Release\Security.B937A72A.Up2Date
